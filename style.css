@@ -30,7 +30,7 @@ body {
 .header {
   height: 800px;
   text-align: center;
-  background: url(http://wallpaperbeta.com/wallpaper_1280x1024/minimalism_blue_background_flock_drop_macro_1280x1024_hd-wallpaper-245590.jpg) no-repeat center;
+  background: url(blueflower.jpeg) no-repeat center;
  background-size: cover;
 }
 .header .container {
@@ -106,7 +106,7 @@ body {
 	height: 600px; 
 	text-align: right;
   
-  background: url(http://nyxtoho.com/wp-content/uploads/2013/11/background_city2.jpg) center no-repeat;
+  background: url(background_city.jpeg) center no-repeat;
   background-size: cover;
   
 }
